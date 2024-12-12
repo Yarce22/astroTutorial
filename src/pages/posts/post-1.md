@@ -1,4 +1,5 @@
 ---
+
 title: 'Mi primera publicación en el blog'
 pubDate: 2024-12-12
 description: 'Este es la primera publicación de mi nuevo blog Astro.'
